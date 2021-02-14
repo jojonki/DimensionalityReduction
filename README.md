@@ -1,4 +1,4 @@
-# DimensionalityReduction
+# Dimensionality Reduction
 
 Guid for PCA (Principal Component Analysis) and LDA (Linear Discriminant Analysis) with Python code.
 
